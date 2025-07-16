@@ -1,0 +1,30 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "AISLER's Lovely Library",
+    "description": "A carefully curated collection of symbols and footprints.",
+    "description_full": "Quickly find parts from our partners Wurth and Diotec by entering component parameters or MPNs. All parts are fully specified, parameters like datasheet, footprint and MPN are preset for your convenience. When using parts from this library you are eligible for discounts on PCBs and PCBA when uploading your project to aisler.net",
+    "identifier": "com.github.aislerhq.lovely-library",
+    "type": "library",
+    "author": {
+        "name": "AISLER B.V.",
+        "contact": {
+            "web": "https://aisler.net",
+            "email": "thea@aisler.net"
+        }
+    },
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "Github": "https://github.com/AislerHQ/lovely-library"
+    },
+    "tags": [
+        "footprint",
+        "library"
+    ],
+    "versions": [
+        {
+            "version": "0.1",
+            "status": "stable",
+            "kicad_version": "9.0"
+        }
+    ]
+}

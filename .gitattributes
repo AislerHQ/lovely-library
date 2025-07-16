@@ -1,0 +1,11 @@
+*.kicad_sym text
+*.kicad_mod text
+*.md text
+*.txt text
+*.yml text
+*.json text
+fp-lib-table text
+.gitattributes text
+.gitignore text
+
+

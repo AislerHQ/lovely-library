@@ -1,0 +1,8 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+.directory
+.fuse_hidden*
+*.pyc
+*.bak
+*.bck
