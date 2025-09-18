@@ -45,3 +45,11 @@ and not part of the library.
 
 AISLER provides the Lovely Library hoping to help developers, but without warranty of any kind, express or implied.
 
+## About AISLER
+
+![AISLER logo](https://aisler.net/logos/AISLER_Logo_m.png)
+
+AISLER Lovely Library is developed and funded by AISLER B.V.
+
+Looking for quick and affordable manufacturing for your Electronic Project? Visit us at [AISLER](https://aisler.net)
+
