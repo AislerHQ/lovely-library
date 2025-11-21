@@ -43,6 +43,7 @@ provided as part of the 'Licensed Material'.
 AISLER B.V, Würth Elektronik eisos Gmbh & Co. KG and Diotec Semiconductor AG respectively
 and not part of the library.  
 
+
 ## Warranty
 
 AISLER provides the Lovely Library hoping to help developers, but without warranty of any kind, express or implied.
@@ -57,6 +58,8 @@ AISLER provides the Lovely Library hoping to help developers, but without warran
 ![AISLER logo](https://aisler.net/logos/AISLER_Logo_m.png)
 
 AISLER Lovely Library is developed and funded by AISLER B.V.
+
+AISLER makes hardware less hard by providing simple electronics manufacturing for everyone. We are based in Europe and focus on amazingly affordable prices, super swift delivery and outstanding customer support. We are KiCad Platinum Sponsor as we donate a significant amount of our revenues made from KiCad designs back to the project. 
 
 Looking for quick and affordable manufacturing for your Electronic Project? Visit us at [AISLER](https://aisler.net)
 
